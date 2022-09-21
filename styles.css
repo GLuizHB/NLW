@@ -7,11 +7,13 @@ ul {
     list-style: none;
 }
 body {
-    background-image: url(./imagens/stars-7249785_1920.jpg);
+   
+    background-image: url(./imagens/bg.jpg);
+    background-color: #121214;
     background-position: top center;
     background-size: 100% auto;
     background-repeat: no-repeat;
-    background-color: #121214;
+    /*background: linear-gradient(90deg, #a1417c 0%, #8e83eb 50.52%, #357562 100%);*/
 }
 body * {
     font-family: 'inter', sans-serif;
