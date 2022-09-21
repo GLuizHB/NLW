@@ -17,4 +17,4 @@
 -Git e GitHub
 #
 ## 📧 Contato
-luizhenriquebernardino@gmai.com
+luizhenriquebernardino@gmail.com
