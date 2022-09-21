@@ -5,7 +5,7 @@
 #
 
 🔗[clique aqui para acessar](https://gluizhb.github.io/NLW/)
-### Projeto desenvolvido ao participar do evento Next Level do portal Rocketseat.
+### Projeto desenvolvido ao participar do evento Next Level Week do portal Rocketseat.
 
 
 ## 🤖 Tecnologias
